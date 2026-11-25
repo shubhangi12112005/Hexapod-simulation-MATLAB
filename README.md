@@ -1,6 +1,6 @@
 This project demonstrates a 3D animated simulation of a Hexapod Robot (a six-legged robot) developed using MATLAB.
 
-The simulation visualises the walking motion of a hexapod robot using a coordinated leg movement pattern called the tripod gait. It demonstrates how mathematical functions can be used to simulate robotic leg movements in a 3D environment.
+The simulation visualises the hexapod robot's walking motion using a coordinated leg-movement pattern called the tripod gait. It shows how mathematical functions can simulate robotic leg movements in a 3D environment.
 
 Features:-
 
@@ -35,3 +35,6 @@ How to Run the Project:-
 ~ Click the Run button.
 
 ~ A 3D animated hexapod simulation will appear.
+
+
+I have also attached the output of the MATLAB program.
